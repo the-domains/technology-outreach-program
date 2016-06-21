@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.94156
+  lightness: 0.523422
+  rhythmicContrast: 0.74137
+  saturation: 0.706566
+cta: {}
+layout_spectrum: 0.509868
+name: Technology Outreach Program
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.303237
